@@ -37,8 +37,7 @@ Upcoming features to be implemented:
 
 # How to Run a Development Copy of the Project
 1. **Clone the repository**:
+     This project ensuring all assets like plane images are properly organized. Use a local web server, such as VS Code Live Server or Node.js with http-server, to serve the project. Once set up, open the provided localhost URL in a browser to view and interact with the 3D Flight Simulator. This setup allows for smooth testing and debugging during development.
    ```bash
    git clone https://github.com/your-username/image-gallery.git
-
-   This project ensuring all assets like plane images are properly organized. Use a local web server, such as VS Code Live Server or Node.js with http-server, to serve the project. Once set up, open the provided localhost URL in a browser to view and interact with the 3D Flight Simulator. This setup allows for smooth testing and debugging during development.
 
