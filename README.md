@@ -3,7 +3,7 @@ Application of Gallery used JavaScript, Html, Css
 
 # Image Gallery with Modal and Category Filters
 
-![image]()
+![image](https://github.com/ramaiah560/Gallery/blob/main/Gallery.png)
 
 ![image](https://img.shields.io/badge/HTML-%E2%9C%94-brightgreen)
 ![image](https://img.shields.io/badge/CSS-%E2%9C%94-brightgreen)
